@@ -29,6 +29,10 @@ export const HeroStyles = styled(motion.div)`
             display: none;
         }
     }
+    @media(max-width: 550px){
+        min-height:80vh;
+        display:block;
+    }
 `
 export const ReadMore = styled(motion.button)`
     background-color: transparent;
