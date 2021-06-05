@@ -9,7 +9,7 @@ export const BottomNavStyles = styled.div`
     bottom: 0;
     width: 100%;
     ul{
-        max-width: 80%;
+        max-width: 100%;
         margin: 0 auto;
         display: flex;
         align-items: center;
